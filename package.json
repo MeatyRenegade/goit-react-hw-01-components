@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Aleksandrs Barkancevs <barkancev.alexander@gmail.com>",
-  "homepage": "https://meatyrenegade.github.io/goit-react-hw-01-components",
+  "homepage": "https://meatyrenegade.github.io/goit-react-hw-01-components/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.7",
